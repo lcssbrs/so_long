@@ -1,2 +1,2 @@
-# so_long
-42 project, 2d videogame
+# So_Long Project for 42
+So_long is a simple 2d game
