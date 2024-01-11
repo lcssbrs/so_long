@@ -35,5 +35,6 @@ Assurez-vous de collecter tous les collectibles avant de quitter pour compléter
 Gestion des événements clavier pour déplacer le personnage.
 Affichage de la carte et des objets en utilisant la bibliothèque MinilibX.
 Gestion des collisions, des collectibles et de la sortie.
-Auteurs
+
+## Auteurs
 Lucas Seiberras
