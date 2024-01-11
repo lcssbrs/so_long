@@ -9,11 +9,11 @@ Assurez-vous d'avoir MinilibX installé sur votre système.
 ## Installation
 1. Clonez ce dépôt sur votre machine locale.
    ```bash
-   git clone https://github.com/votre-utilisateur/so_long.git
+   git clone https://github.com/lcssbrs/so_long.git
    cd so_long
 2. Compilez le projet en exécutant la commande make.
    ```bash
-make
+   make
 
 
 ## Utilisation
@@ -21,6 +21,7 @@ Une fois le projet compilé, lancez le jeu avec la commande suivante :
 
    ```bash
 ./so_long maps/map_test.ber
+   ```
 
 
 ## Règles du jeu
