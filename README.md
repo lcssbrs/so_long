@@ -13,15 +13,13 @@ Assurez-vous d'avoir MinilibX installé sur votre système.
    cd so_long
 2. Compilez le projet en exécutant la commande make.
    ```bash
-Copy code
 make
 
 
 ## Utilisation
 Une fois le projet compilé, lancez le jeu avec la commande suivante :
 
-bash
-Copy code
+   ```bash
 ./so_long maps/map_test.ber
 
 
